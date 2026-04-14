@@ -10,7 +10,6 @@
 ---
 
 ## ⚡ About Me
-
 ```python
 class Pragya:
     name       = "Pragya Singh"
@@ -20,7 +19,6 @@ class Pragya:
     stack      = ["Python", "Machine Learning", "Streamlit", "Scikit-Learn"]
     interests  = ["Predictive Modelling", "Classification", "Web Apps with ML"]
     currently  = "Building end-to-end ML web apps & sharpening my skills"
-    fun_fact   = "I debug models before I debug my life choices 🤖"
 ```
 
 ---
