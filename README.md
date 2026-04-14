@@ -21,7 +21,6 @@ class Pragya:
         self.stack = ["Python", "Machine Learning", "Streamlit", "Scikit-Learn"]
         self.interests = ["Predictive Modelling", "Classification", "Web Apps with ML"]
         self.currently = "Building end-to-end ML Web apps & sharpening my skills"
-        
 ```
 
 ---
