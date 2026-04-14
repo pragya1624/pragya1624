@@ -12,7 +12,7 @@
 ## ⚡ About Me
 
 ```python
-```text
+
 Name       : Pragya Singh
 Username   : pragya1624
 Role       : Final Year AI/ML Engineering Student
@@ -20,8 +20,6 @@ Location   : Varanasi, India IN
 Stack      : Python, Machine Learning, Streamlit, Scikit-Learn
 Interests  : Predictive Modelling, Classification, Web Apps with ML
 Currently  : Building end-to-end ML Web apps & sharpening my skills
-
-```
 ```
 
 ---
