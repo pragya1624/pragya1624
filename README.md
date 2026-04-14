@@ -12,6 +12,7 @@
 ## ⚡ About Me
 
 ```python
+
 Pragya = {
     "name": "Pragya Singh",
     "username": "pragya1624",
