@@ -10,7 +10,6 @@
 ---
 
 ## ⚡ About Me
-
 ```python
 class Pragya:
     def __init__(self):
