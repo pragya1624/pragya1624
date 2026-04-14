@@ -11,7 +11,7 @@
 
 ## ⚡ About Me
 
-```python
+``python
 class Pragya:
     def __init__(self):
         self.name = "Pragya Singh"
