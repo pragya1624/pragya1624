@@ -12,17 +12,16 @@
 ## ⚡ About Me
 
 ```python
-
-Pragya = {
-    "name": "Pragya Singh",
-    "username": "pragya1624",
-    "role": "Final Year AI/ML Engineering Student",
-    "location": "Varanasi, India IN",
-    "stack": ["Python", "Machine Learning", "Streamlit", "Scikit-Learn"],
-    "interests": ["Predictive Modelling", "Classification", "Web Apps with ML"],
-    "currently": "Building end-to-end ML Web apps & sharpening my skills",
-    "fun_fact": "I debug models before I debug my life choices 🤖"
-}
+class Pragya:
+    def __init__(self):
+        self.name = "Pragya Singh"
+        self.username = "pragya1624"
+        self.role = "Final Year AI/ML Engineering Student"
+        self.location = "Varanasi, India IN"
+        self.stack = ["Python", "Machine Learning", "Streamlit", "Scikit-Learn"]
+        self.interests = ["Predictive Modelling", "Classification", "Web Apps with ML"]
+        self.currently = "Building end-to-end ML Web apps & sharpening my skills"
+        self.fun_fact = "I debug models before I debug my life choices 🤖"
 ```
 
 ---
