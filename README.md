@@ -1,9 +1,10 @@
 <div align="center">
 
-### 🤖 Final Year AI/ML Engineering Student
+### Hey there! I'm Pragya 
+### Final Year AI/ML Engineering Student
 ### Building intelligent systems · One model at a time
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+the+Making;Python+%7C+Machine+Learning+%7C+Streamlit;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=AI+%7C+ML+Engineer+in+Making;Python+%7C+Streamlit+%7C+Scikit-Learn;Always+Learning%2C+Always+Building)
 
 </div>
 
@@ -11,16 +12,11 @@
 
 ## ⚡ About Me
 
-```python
-class Pragya:
-    name       = "Pragya Singh"
-    username   = "pragya1624"
-    role       = "Final Year AI/ML Engineering Student"
-    location   = "Varanasi, India"
-    stack      = ["Python", "Machine Learning", "Streamlit", "Scikit-Learn"]
-    interests  = ["Predictive Modelling", "Classification", "Web Apps with ML"]
-    currently  = "Building end-to-end ML web apps & sharpening my skills"
-```
+- 🎓 Final Year **AI/ML Engineering Student**
+- 📍 Based in **Varanasi, India**
+- 🔭 Building end-to-end **ML web apps** with Streamlit
+- 🌱 Exploring **Logistic Regression, Linear Regression & Classification**
+- 📧 **pragyasingh0167@gmail.com**
 
 ---
 
@@ -42,14 +38,16 @@ class Pragya:
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=white)
 
 **Deployment & Tools**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
@@ -58,7 +56,7 @@ class Pragya:
 ### 🤖 Adaptive AI Tutor
 > Smart AI tutoring system built in Python
 
-An intelligent tutoring system that adapts to student learning patterns using AI techniques to deliver personalized learning experiences.
+An intelligent tutoring system that adapts to student learning patterns using AI to deliver personalized learning experiences.
 
 `Python` `AI` `Adaptive Learning`
 
@@ -71,7 +69,7 @@ An intelligent tutoring system that adapts to student learning patterns using AI
 
 Predicts house prices based on area and number of bedrooms using Linear Regression. Deployed as an interactive web app with Streamlit.
 
-`Python` `Machine Learning` `Regression` `Streamlit`
+`Python` `Scikit-Learn` `Linear Regression` `Streamlit` `Pandas` `Matplotlib`
 
 [![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragya1624/House-price-Prediction)
 
@@ -82,7 +80,7 @@ Predicts house prices based on area and number of bedrooms using Linear Regressi
 
 Classifies iris flowers into species using Logistic Regression. Full end-to-end ML pipeline with an interactive Streamlit interface.
 
-`Python` `Machine Learning` `Classification` `Streamlit`
+`Python` `Scikit-Learn` `Logistic Regression` `Streamlit` `Seaborn` `Matplotlib`
 
 [![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragya1624/Iris-flower-classifiaction)
 
@@ -91,7 +89,7 @@ Classifies iris flowers into species using Logistic Regression. Full end-to-end 
 ### 🎯 Number Guessing Game
 > First Python project · Beginner Friendly
 
-A fun number guessing game — where it all started.
+A fun number guessing game — where the coding journey began.
 
 `Python` `Game` `Beginner`
 
@@ -102,7 +100,7 @@ A fun number guessing game — where it all started.
 ### 🧮 Simple Calculator
 > Python · 8 Operations
 
-A clean Python calculator supporting 8 arithmetic operations.
+A clean Python calculator supporting 8 arithmetic operations. Built to strengthen core Python fundamentals.
 
 `Python` `Beginner`
 
@@ -113,7 +111,7 @@ A clean Python calculator supporting 8 arithmetic operations.
 ### ✅ To-Do List
 > Python · Task Management
 
-A Python-based to-do list app to manage and track daily tasks.
+A Python-based to-do list app to manage and track daily tasks efficiently.
 
 `Python` `Productivity`
 
@@ -154,4 +152,3 @@ A Python-based to-do list app to manage and track daily tasks.
 *"Every expert was once a beginner. Keep building."* 🚀
 
 </div>
-
