@@ -58,7 +58,7 @@ to strengthen my problem solving skills. 🚀
 
 An intelligent tutoring system that adapts to student learning patterns using AI to deliver personalized learning experiences.
 
-`Python` `AI` `Adaptive Learning`
+`Python` `AI` `Adaptive Learning` `Machine Learning` `Pandas` `Matplotlib` `Scikit-Learn` `Flask`
 
 [![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragya1624/adaptive-ai-tutor)
 
