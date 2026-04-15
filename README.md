@@ -80,7 +80,7 @@ Predicts house prices based on area and number of bedrooms using Linear Regressi
 
 Classifies iris flowers into species using Logistic Regression. Full end-to-end ML pipeline with an interactive Streamlit interface.
 
-`Python` `Scikit-Learn` `Logistic Regression` `Streamlit` `Seaborn` `Matplotlib`
+`Python` `Scikit-Learn` `Logistic Regression` `Streamlit` `Matplotlib`
 
 [![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragya1624/Iris-flower-classifiaction)
 
