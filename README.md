@@ -12,14 +12,15 @@
 ## ⚡ About Me
 
 ```python
-
-Name       : Pragya Singh
-Username   : pragya1624
-Role       : Final Year AI/ML Engineering Student
-Location   : Varanasi, India IN
-Stack      : Python, Machine Learning, Streamlit, Scikit-Learn
-Interests  : Predictive Modelling, Classification, Web Apps with ML
-Currently  : Building end-to-end ML Web apps & sharpening my skills
+class Pragya:
+    name       = "Pragya Singh"
+    username   = "pragya1624"
+    role       = "Final Year AI/ML Engineering Student"
+    location   = "Varanasi, India 🇮🇳"
+    stack      = ["Python", "Machine Learning", "Streamlit", "Scikit-Learn"]
+    interests  = ["Predictive Modelling", "Classification", "Web Apps with ML"]
+    currently  = "Building end-to-end ML web apps & sharpening my skills"
+    fun_fact   = "I debug models before I debug my life choices 🤖"
 ```
 
 ---
