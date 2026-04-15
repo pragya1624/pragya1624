@@ -12,11 +12,11 @@
 
 ## ⚡ About Me
 
-- 🎓 Final Year **AI/ML Engineering Student**
-- 📍 Based in **Varanasi, India**
-- 🔭 Building end-to-end **ML web apps** with Streamlit
-- 🌱 Exploring **Logistic Regression, Linear Regression & Classification**
-- 📧 **pragyasingh0167@gmail.com**
+
+Hi! I'm **Pragya Singh**, a final year AI/ML Engineering student
+passionate about building **real world impactful projects**.
+Currently learning **Machine Learning** and exploring **DSA**
+to strengthen my problem solving skills. 🚀
 
 ---
 
