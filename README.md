@@ -65,11 +65,11 @@ An intelligent tutoring system that adapts to student learning patterns using AI
 ---
 
 ### 🏠 House Price Prediction
-> ML web app · Linear Regression · Streamlit
+> ML web app · Linear Regression · Random Forest · Streamlit
 
-Predicts house prices based on area and number of bedrooms using Linear Regression. Deployed as an interactive web app with Streamlit.
+An interactive ML web app that predicts house prices and compares model performance using Linear Regression and Random Forest. Features model evaluation with RMSE & R² Score, data visualization, and best model selection.
 
-`Python` `Scikit-Learn` `Linear Regression` `Streamlit` `Pandas` `Matplotlib`
+`Python` `Scikit-Learn` `Linear Regression` `Random Forest` `Streamlit` `Pandas` `Matplotlib`
 
 [![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragya1624/House-price-Prediction)
 
